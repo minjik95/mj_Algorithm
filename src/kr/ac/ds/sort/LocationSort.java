@@ -11,7 +11,6 @@ public class LocationSort {
 		int t = sc.nextInt();
 		int x = 0;
 		int y = 0;
-		Location temp;
 		Location[] location = new Location[t];
 		
 		for(int i = 0; i < t; i++) {
